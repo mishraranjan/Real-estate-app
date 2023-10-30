@@ -6,7 +6,7 @@ function Header() {
   <header className='bg-emerald-100 p-3 shadow-md'>
     <div className="flex justify-between items-center max-w-6xl mx-auto">
         <Link to='/'>
-    <h1 className='font-bold text-sm sm:text-lg flex flex-wrap'>
+    <h1 className='font-bold text-sm sm:text-xl flex flex-wrap'>
         <span className='text-emerald-500'>Our</span>
         <span className='text-emerald-700'>Estate</span>
     </h1>
